@@ -1,2 +1,2 @@
 # OIBSIP
- Oasis Infobyte Web Development Intership
+ Oasis Web development Intership
